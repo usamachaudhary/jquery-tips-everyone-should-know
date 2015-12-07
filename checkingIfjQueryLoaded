@@ -1,0 +1,4 @@
+/*The simplest way to check if the jQuery is loaded or not. is to:
+* check from browser console window if the jQuery command is accessible,
+* therefore, we do not use any code. 
+*/
